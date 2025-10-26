@@ -1,0 +1,23 @@
+
+
+Dirty Dataset ----->
+
+
+
+
+
+
+
+
+Messy Dataset ------>
+
+
+
+numerical --> age,G1,G2,G3,absences
+
+categorical ---> sex,school,address,schoolsup
+
+mixed  ---> grade(can be maaped)
+
+
+
